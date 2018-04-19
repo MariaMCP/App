@@ -10,7 +10,7 @@
 
 	<description>See updated stills from traffic cameras in the Tri-Cities.</description>
 
-	<author href = "http:github.com/mariabultena/Traffic-Cams" email = "mariabultena@gmail.com"> Maria Bultena </author>
+	<author href = "http:github.com/mariabultena/Traffic-Cams" email = "codingmcp@gmail.com"> Maria Bultena </author>
 
 	<allow-navigation href="*" />
 	<allow-intent href="*" />
@@ -18,22 +18,22 @@
 
 	<plugin name="cordova-plugin-whitelist" spec="~1.3.2" />
 	
-	<icon src = "ic_launcher.png" 
+	<icon src = "launcher.png" 
       	gap:platform = "android" gap:qualifier = "ldpi" />
 		
-  	<icon src = "ic_launcher.png" 
+  	<icon src = "launcher.png" 
       	gap:platform = "android" gap:qualifier = "mdpi" />
 		
-   	<icon src = "ic_launcherHDPI.png" 
+   	<icon src = "HDPI.png" 
       	gap:platform = "android" gap:qualifier = "hdpi" />
 		
-   	<icon src = "ic_launcherXHDPI.png" 
+   	<icon src = "XHDPI.png" 
       	gap:platform = "android" gap:qualifier = "xhdpi" />
 		
-   	<icon src = "ic_launcherXXHDPI.png" 
+   	<icon src = "XXHDPI.png" 
       	gap:platform = "android" gap:qualifier = "xxhdpi" />
 
-   	<icon src = "ic_launcherXXXHDPI.png" 
+   	<icon src = "XXXHDPI.png" 
       	gap:platform = "android" gap:qualifier = "xxhdpi" />
 
 
